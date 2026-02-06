@@ -1,3 +1,5 @@
+package exercise1;
+
 class MealPlan extends PaymentMethod { 
 
     public MealPlan(String accountHolder, double balance) {
