@@ -1,3 +1,5 @@
+package exercise2;
+
 public class SmartThermostat extends SmartDevice implements Adjustable {
     private int temperature;
 

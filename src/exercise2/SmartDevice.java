@@ -1,3 +1,5 @@
+package exercise2;
+
 abstract class SmartDevice implements Powerable {
     protected String deviceName;
     protected boolean isOn;

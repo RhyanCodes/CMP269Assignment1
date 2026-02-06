@@ -1,3 +1,5 @@
+package exercise1;
+
 class CreditCard extends PaymentMethod {
     private double creditLimit;
 

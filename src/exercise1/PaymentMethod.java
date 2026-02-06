@@ -1,3 +1,5 @@
+package exercise1;
+
 abstract class PaymentMethod implements Payable {
     protected String accountHolder;
     protected double balance;
