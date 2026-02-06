@@ -12,6 +12,8 @@ public class App {
             payment.processPayment(50);
             payment.validateAccount();
         }
-       
+        System.out.println(visa.totalTransactions);
+        System.out.println(lunch.totalTransactions);
     }
 }
+
