@@ -6,6 +6,9 @@ This repository contains two Java programming exercises demonstrating object-ori
 
 ```
 ├── src/
+│   ├── 2.10/               # App and Demo files
+│   │   ├── App.java
+│   │   └── Demo.java
 │   ├── exercise1/          # Payment system exercise
 │   │   ├── App.java
 │   │   ├── Payable.java
